@@ -1,5 +1,21 @@
 [
   {
+    "package": "dplyr",
+    "url": "https://github.com/tidyverse/dplyr"
+  },
+  {
+    "package": "purrr",
+    "url": "https://github.com/tidyverse/purrr"
+  },
+  {
+    "package": "readr",
+    "url": "https://github.com/tidyverse/readr"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang"
+  },
+  {
     "package": "wubik",
     "url": "https://github.com/the-mad-statter/wubik"
   }
