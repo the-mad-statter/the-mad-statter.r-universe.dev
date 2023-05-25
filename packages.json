@@ -1,41 +1,5 @@
 [
   {
-    "package": "dplyr",
-    "url": "https://github.com/tidyverse/dplyr"
-  },
-  {
-    "package": "forcats",
-    "url": "https://github.com/tidyverse/forcats"
-  },
-  {
-    "package": "ggplot2",
-    "url": "https://github.com/tidyverse/ggplot2"
-  },
-  {
-    "package": "purrr",
-    "url": "https://github.com/tidyverse/purrr"
-  },
-  {
-    "package": "readr",
-    "url": "https://github.com/tidyverse/readr"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang"
-  },
-  {
-    "package": "stringr",
-    "url": "https://github.com/tidyverse/stringr"
-  },
-  {
-    "package": "tibble",
-    "url": "https://github.com/tidyverse/tibble"
-  },
-  {
-    "package": "tidyr",
-    "url": "https://github.com/tidyverse/tidyr"
-  },
-  {
     "package": "wubik",
     "url": "https://github.com/the-mad-statter/wubik"
   }
